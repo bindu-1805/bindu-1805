@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bindu Madhavi V</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-- 🔭 I currently worked on an [AI Text Summarizer App](ai-text-summarizer-app.bindu2003madhav.repl.co)
-
 - 🌱 I’m currently learning **Full stack development on Udemy**
 
 - 👯 I’m looking to collaborate on **simple and elegant front end projects**
