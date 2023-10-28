@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bindu Madhavi V</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-- 🔭 I currently worked on [AI Text Summarizer App](https://ai-text-summarizer-app.bindu2003madhav.repl.co/)
+- 🔭 I recently worked on [AI Text Summarizer App](https://ai-text-summarizer-app.bindu2003madhav.repl.co/)
 
 - 🌱 I’m currently learning **Full stack development on Udemy**
 
@@ -16,6 +16,7 @@
 <a href="https://codepen.io/binny_1805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="binny_1805" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bindu-madhavi-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bindu-madhavi-v" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bindu2003madhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bindu2003madhavi" height="30" width="40" /></a>
+<a href="https://twitter.com/bindu_madhavi_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bindu_madhavi_v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
