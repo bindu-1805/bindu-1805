@@ -3,7 +3,7 @@
 
 - 🔭 I recently worked on [AI Text Summarizer App](https://ai-text-summarizer-app.bindu2003madhav.repl.co/)
 
-- 🌱 I’m currently learning **Full stack development on Udemy**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **simple and elegant front end projects**
 
