@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bindu Madhavi V</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-- 🔭 I'm working on [Nextjs Dashboard App](https://nextjs-dashboard-blush-ten-25.vercel.app/)
+- 🔭 I'm working on [Nextjs Dashboard App](https://nextjs-dashboard-1na4lydau-bindu-madhavi-vs-projects.vercel.app)
 
 - 🌱 I’m currently learning **MongoDB**
 
