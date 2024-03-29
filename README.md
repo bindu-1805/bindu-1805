@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bindu Madhavi V</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-- 🔭 I recently worked on [AI Text Summarizer App](https://ai-text-summarizer-app.bindu2003madhav.repl.co/)
+- 🔭 I'm working on [Nextjs Dashboard App](https://nextjs-dashboard-blush-ten-25.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **simple and elegant front end projects**
 
