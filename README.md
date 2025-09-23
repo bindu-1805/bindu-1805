@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 
-- 🌱 I’m currently learning **React** in depth
+- 🌱 I’m currently learning **Data Engineering** in depth
 
-- 👯 I’m looking to collaborate on **simple and elegant frontend projects**
+- 👯 I’m looking to collaborate on **simple projects**
 
-- 💬 Ask me about **JS, RESTAPIS, MongoDB, CLI**
+- 💬 Ask me about **JS, RESTAPIS, MongoDB, SQL**
 
 - 📫 How to reach me **bindu2003madhavi@gmail.com**
 
